@@ -39,13 +39,13 @@ This is a simple API microservice that takes a date string as a parameter and re
 First, clone the repository:
 
 ```bash
-git clone https://github.com/<your-github-username>/<repository-name>.git
+git clone https://github.com/erennatala/Timestamp-Microservice.git
 ```
 
 Then, navigate to the project directory and install the dependencies:
 
 ```bash
-cd <repository-name>
+cd Timestamp-Microservice
 npm install
 ```
 
@@ -64,4 +64,4 @@ Open your web browser and navigate to `http://localhost:3000` to start using the
 - [CORS](https://www.npmjs.com/package/cors)
 ```
 
-You can replace `<your-github-username>` and `<repository-name>` with your actual GitHub username and repository name.
+
